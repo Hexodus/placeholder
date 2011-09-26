@@ -16,4 +16,4 @@ It is licensed under the Apache 2 license and is Copyright 2011 Dan Bentley
 **URL:**		[csswizardry.com](http://csswizardry.com/)
 	
 ## Fork
-In order to reduce filesize, I've removed the password input support, as I don't use this is my projects. I've also used custom bindings for all placeholder methods so they can be triggered by other events on the page.
+In order to reduce filesize, I've removed the password input support. I've also used custom bindings for all placeholder methods so they can be triggered by other events on the page.
